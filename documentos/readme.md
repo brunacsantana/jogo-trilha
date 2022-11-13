@@ -3,9 +3,9 @@
 
 * Tabuleiro com 24 casas interligadas horizontalmente e verticalmente;
 
-* 9 peças brancas(B);
+* 9 peças brancas (B);
 
-* 9 peças pretas(P);
+* 9 peças pretas (P);
 
 
 ## OBJETIVO
@@ -31,8 +31,6 @@ Durante a partida:
 
 * Caso, ao realizar uma trilha, tente remover a peça de uma posição que não seja de seu oponente
 o jogador perde sua vez;
-
-* 
 
 
 ## ESTRATEGIA
